@@ -1,0 +1,4 @@
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Model\bin\Debug\netstandard2.0\WebAPIdemoone.Interface.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Model\obj\Debug\netstandard2.0\WebAPIdemoone.Model.csprojAssemblyReference.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Model\obj\Debug\netstandard2.0\WebAPIdemoone.Model.AssemblyInfoInputs.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Model\obj\Debug\netstandard2.0\WebAPIdemoone.Model.AssemblyInfo.cs
