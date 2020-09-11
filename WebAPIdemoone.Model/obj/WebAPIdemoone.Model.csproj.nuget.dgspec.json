@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj": {}
+    "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj": {}
   },
   "projects": {
-    "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
+    "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
+        "projectUniqueName": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
         "projectName": "WebAPIdemoone.Interface",
-        "projectPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
+        "projectPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\obj\\",
+        "outputPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj": {
+    "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
+        "projectUniqueName": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
         "projectName": "WebAPIdemoone.Model",
-        "projectPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
+        "projectPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\obj\\",
+        "outputPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -92,8 +92,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
-                "projectPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj"
+              "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
+                "projectPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj"
               }
             }
           }
@@ -112,10 +112,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "sqlSugar": {
-              "target": "Package",
-              "version": "[5.0.0.15, )"
             }
           },
           "imports": [

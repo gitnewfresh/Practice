@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {}
+    "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {}
   },
   "projects": {
-    "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
+    "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
+        "projectUniqueName": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
         "projectName": "WebAPIdemoone.Interface",
-        "projectPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
+        "projectPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\obj\\",
+        "outputPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

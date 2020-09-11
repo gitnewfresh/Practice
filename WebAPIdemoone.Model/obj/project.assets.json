@@ -26,15 +26,6 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "sqlSugar/5.0.0.15": {
-        "type": "package",
-        "compile": {
-          "lib/SqlSugar.dll": {}
-        },
-        "runtime": {
-          "lib/SqlSugar.dll": {}
-        }
-      },
       "WebAPIdemoone.Interface/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -192,18 +183,6 @@
         "netstandard.library.nuspec"
       ]
     },
-    "sqlSugar/5.0.0.15": {
-      "sha512": "EBYIw96X/liADdMslKebn3Xd6Ey1A9yREJazZqassiRcg6xAYOdhUpmjOG4Vf9Rv4dGT8DT4dUW7ZGuzzx7x+g==",
-      "type": "package",
-      "path": "sqlsugar/5.0.0.15",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/SqlSugar.dll",
-        "sqlsugar.5.0.0.15.nupkg.sha512",
-        "sqlsugar.nuspec"
-      ]
-    },
     "WebAPIdemoone.Interface/1.0.0": {
       "type": "project",
       "path": "../WebAPIdemoone.Interface/WebAPIdemoone.Interface.csproj",
@@ -213,8 +192,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "WebAPIdemoone.Interface >= 1.0.0",
-      "sqlSugar >= 5.0.0.15"
+      "WebAPIdemoone.Interface >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -224,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
+      "projectUniqueName": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
       "projectName": "WebAPIdemoone.Model",
-      "projectPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
+      "projectPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\obj\\",
+      "outputPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -249,8 +227,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
-              "projectPath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj"
+            "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj": {
+              "projectPath": "D:\\respository\\WebAPIdemoone\\WebAPIdemoone.Interface\\WebAPIdemoone.Interface.csproj"
             }
           }
         }
@@ -269,10 +247,6 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
-          },
-          "sqlSugar": {
-            "target": "Package",
-            "version": "[5.0.0.15, )"
           }
         },
         "imports": [
@@ -288,17 +262,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETStandard,Version=v2.0”还原包“sqlSugar 5.0.0.15”。此包可能与项目不完全兼容。",
-      "libraryId": "sqlSugar",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }
